@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.MuiSelect-select, li.MuiMenuItem-root{
+  text-transform: capitalize;
+}
+
